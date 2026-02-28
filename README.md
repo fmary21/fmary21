@@ -1,8 +1,7 @@
 # Hie there
 
-I’m Fadzai 
-
-Data & BI Analyst  Aspiring Data Engineer  Capstone Builder
+I’m Fadzai ,
+A Data & BI Analyst  Aspiring Data Engineer  Capstone Builder
 I specialize in turning complex datasets into clear, actionable insights through SQL, BI dashboards, and data storytelling. Currently, I’m upgrading my skillset into data engineering — exploring pipelines, cloud platforms, and scalable architectures — while working on my first capstone project to showcase end-to-end data solutions.
 ### 🚀 What I bring
 - Strong background in SQL troubleshooting & optimization (Snowflake, Databricks, SQL Server).
