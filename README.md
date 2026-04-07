@@ -1,7 +1,9 @@
 # 💫 About Me:
  Hie there<br><br>I’m Fadzai ,<br>A Data & BI Analyst , Aspiring Data Engineer  Capstone Builder<br>I specialize in turning complex datasets into clear, actionable insights through SQL, BI dashboards, and data storytelling. Currently, I’m upgrading my skillset into data engineering — exploring pipelines, cloud platforms, and scalable architectures — while working on my first capstone project to showcase end-to-end data solutions.<br> 
- 🚀 What I bring<br>- Strong background in SQL troubleshooting & optimization (Snowflake, Databricks, SQL Server).<br>- Experience designing engaging dashboards in Looker, Power BI, and Canva.<br>- Passion for visual storytelling that empowers decision-makers.<br>- A growing toolkit in data engineering (ETL, cloud workflows, automation).<br> 
- 📌 Current Focus<br>- Building my capstone project: a full-stack data pipeline with analytics dash- boards.<br>- Expanding into data engineering best practices.<br>- Sharing my journey and learnings here on GitHub.<br>
+ ## 🚀 What I bring
+ <br>- Strong background in SQL troubleshooting & optimization (Snowflake, Databricks, SQL Server).<br>- Experience designing engaging dashboards in Looker, Power BI, and Canva.<br>- Passion for visual storytelling that empowers decision-makers.<br>- A growing toolkit in data engineering (ETL, cloud workflows, automation).<br> 
+##  📌 Current Focus
+<br>- Building my capstone project: a full-stack data pipeline with analytics dash- boards.<br>- Expanding into data engineering best practices.<br>- Sharing my journey and learnings here on GitHub.<br>
 
 
 ## 🌐 Socials:
